@@ -3,3 +3,4 @@ class Calculator:
     self.a=a
     self.b=b
   add=lambda self:self.a+self.b
+
